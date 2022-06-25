@@ -1,0 +1,89 @@
+SIMBOLOS
+
+&lt;	menor que <
+&gt; 	maior que >
+&le;	maior ou igual a 
+&gle; 	menor ou igual a 
+
+&pound;	libra
+&yen;	yenes
+&euro; 	euro 
+
+&copy;	copyright
+&reg; 	marca registrada
+&trade;	trade marker
+
+&permil; porcentagem dividida por mil
+&sum;	soma
+&infin;	infinito 
+&times;	multiplicação
+&plusm;	mais ou menos	
+&oplus;	mais dentro de circulo 
+&radic;	raiz quadrada
+&ne;	nao igual (igual com traço)
+
+LETRAS GREGAS
+&delta;	Delta (letra maiuscula e minuscula)
+&lambda;	lambida
+&omega;	omega
+&phi;	phi
+
+
+SETAS
+&larr;	seta esquerda
+&rarr;	seta pra direita
+%uarr; 	seta pra cima
+%darr;	seta pra baixo
+%harr; 	seta esquerda e direita juntas
+
+NAIPES DE CARTAS
+&spades;
+&clubs;
+&hearts;
+&diams; 
+
+<em> </em> = 
+deixa o termo detacado em italico e tem uma semantica por traz
+tem uma importancia no termo.
+
+ 
+SOBRESCRITO
+SUBSCRITO
+<p> Exemplos de <sup>formatacao </sup></P>
+<p>x<sup> 2</sup> e H <sub>2</sub>O<p>
+
+=======================
+
+EXEMPLOS DE MENUS COM 
+OL = LISTA ORDENADA
+UL = lista nao ordenada
+
+<nav id="menu">
+	<h1>Menu Principal</h1>
+	<ul type="square">
+		<li><a href="index.html">Home</a></li>
+		<li><a href="specs.html">Especificações</a></li>
+		<li><a href="fotos.html">Fotos</a></li>
+		<li><a href="multimidia.html">Multimídia</a></li>
+		<ol type="1" start="2">
+			<li>Músicas</li>
+			<li>Vídeos</li>
+		</ol>
+		<li><a href="fale-conosco">Fale conosco</a></li>
+	</ul>
+<nav>
+
+
+
+====================
+
+<h2 style="text-align: center">O que é </h2>
+DEIXAR CENTRALIZADO
+
+<p> <span style="text-decoration: underline;"> O Google Glass </span>é um acessório em form
+DEIXAR SUBLINHADO
+
+
+
+
+
